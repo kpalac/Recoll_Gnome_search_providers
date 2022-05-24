@@ -1,3 +1,0 @@
-[D-BUS Service]
-Name=org.recoll.RecollNotes.SearchProvider
-Exec=/usr/bin/gssp-recoll.py notes
