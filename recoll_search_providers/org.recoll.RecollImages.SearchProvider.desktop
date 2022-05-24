@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Images (Recoll)
+Comment=Recoll Gnome Shell Search Provider (Images only)
+Icon=application-images
+DBusActivatable=true
+Terminal=false
+Type=Application
+Categories=Utility;Filesystem;Image;Photo;
+Keywords=Search;Full Text;
+NoDisplay=true

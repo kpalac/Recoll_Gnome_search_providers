@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Other Files (Recoll)
+Comment=Recoll Gnome Shell Search Provider (Other Files only)
+Icon=folder
+DBusActivatable=true
+Terminal=false
+Type=Application
+Categories=Utility;Filesystem;Database;
+Keywords=Search;Full Text;
+NoDisplay=true

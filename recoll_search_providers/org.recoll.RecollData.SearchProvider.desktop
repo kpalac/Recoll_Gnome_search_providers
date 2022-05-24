@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Data (Recoll)
+Comment=Recoll Gnome Shell Search Provider (Data files only)
+Icon=application-table
+DBusActivatable=true
+Terminal=false
+Type=Application
+Categories=Utility;Filesystem;Data;Table;SQL;
+Keywords=Search;Full Text;
+NoDisplay=true
