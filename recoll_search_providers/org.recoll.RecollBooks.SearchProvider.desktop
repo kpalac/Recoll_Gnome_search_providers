@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Books (Recoll)
+Comment=Recoll Gnome Shell Search Provider (Books only)
+Icon=application-text
+DBusActivatable=true
+Terminal=false
+Type=Application
+Categories=Utility;Filesystem;Book;EBook;
+Keywords=Search;Full Text;
+NoDisplay=true
