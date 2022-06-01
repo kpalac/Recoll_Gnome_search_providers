@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.recoll.RecollBooks.SearchProvider
+Exec=/usr/bin/gssp-recoll.py books

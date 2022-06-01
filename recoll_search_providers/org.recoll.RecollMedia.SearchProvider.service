@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.recoll.RecollMedia.SearchProvider
+Exec=/usr/bin/gssp-recoll.py media
