@@ -1,3 +1,0 @@
-[D-BUS Service]
-Name=org.recoll.RecollData.SearchProvider
-Exec=/usr/bin/gssp-recoll.py data
