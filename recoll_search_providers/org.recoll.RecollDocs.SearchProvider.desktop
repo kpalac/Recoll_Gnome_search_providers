@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Docs (Recoll)
+Comment=Recoll Gnome Shell Search Provider (Docs only)
+Icon=wps-office-doc
+DBusActivatable=true
+Terminal=false
+Type=Application
+Categories=Utility;Filesystem;Documents;
+Keywords=Search;Full Text;
+NoDisplay=true
